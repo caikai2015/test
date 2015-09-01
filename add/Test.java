@@ -13,4 +13,16 @@ public interface Test {
    	void releaseQuestionAllotStatus(List<Long> questionids);
 
 	void lockQuestionAllotStatus(List<Long> questionids);
+
+	/*  new  =====  new */
+	void lockQue(List questionids);
+	void lockQue(List questionids);
+
+	/* block === end */
+
+	/*  new  =====  new */
+	void lockQue(List questionids);
+	void lockQue(List questionids);
+
+	/* block === end */
 }
