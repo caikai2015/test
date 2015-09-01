@@ -30,4 +30,15 @@ public interface Test {
 	/*  这是一个分支，不知道是不是可以的  */
 
    	void releaseQuestionAllotStatus(List<Long> questionids);
+	/*  new  =====  new */
+	void lockQue(List questionids);
+	void lockQue(List questionids);
+
+	/* block === end */
+
+	/*  new  =====  new */
+	void lockQue(List questionids);
+	void lockQue(List questionids);
+
+	/* block === end */
 }
