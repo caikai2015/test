@@ -7,4 +7,7 @@ public interface Test {
 	/* ================== */
 
 	int addAgea();
+
+	/* 看看这样行不行，这个我也不太清楚的*/
+	List<Long> listAllotQuestionId(String teacherId);
 }
