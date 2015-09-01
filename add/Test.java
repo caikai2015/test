@@ -23,4 +23,6 @@ public interface Test {
    	void releaseQuestionAllotStatus(List<Long> questionids);
 
 	void lockQuestionAllotStatus(List<Long> questionids);
+
+	/*three ===============*/
 }
