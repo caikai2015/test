@@ -4,4 +4,7 @@ public interface Test {
 	
 	int countCompleteTask(String teacherId);
 
+	/* ================== */
+
+	int addAgea();
 }
