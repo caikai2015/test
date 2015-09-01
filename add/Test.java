@@ -16,4 +16,5 @@ public interface Test {
 	/*  再来加一下，我看看行不行，还有就是可以的  */
 
 	/* mast */
+	/* master*/
 }
