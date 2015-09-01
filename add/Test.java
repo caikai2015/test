@@ -18,11 +18,16 @@ public interface Test {
 	/* mast */
 	/* master*/
 
-	/*  这是一个分支，不知道是不是可以的  */
-
-   	void releaseQuestionAllotStatus(List<Long> questionids);
+	
 
 	void lockQuestionAllotStatus(List<Long> questionids);
 
 	/*three ===============*/
+
+	/*  再来加一下，我看看行不行，还有就是可以的  */
+	/*  再来加一下，我看看行不行，还有就是可以的  */
+
+	/*  这是一个分支，不知道是不是可以的  */
+
+   	void releaseQuestionAllotStatus(List<Long> questionids);
 }
